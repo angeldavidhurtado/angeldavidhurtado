@@ -1,16 +1,15 @@
-## Hi there 👋
+<h3 align="center">Ángel David Hurtado</h3>
 
-<!--
-**angeldavidhurtado/angeldavidhurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+	Frontend Developer | React.js • JavaScript (ES6+) • HTML5 • CSS3 • Git
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://angeldavidhurtado.github.io/">Portfolio</a> •
+	<a href="mailto:angeldavidhurtado.dev@gmail.com?subject=Revisamos tu GitHub - Hablemos&amp;body=Hola Ángel,%0D%0A%0D%0ASoy [tu nombre] de [nombre empresa opcional]. Hemos revisado tu GitHub y nos gustaría [asunto]" aria-label="email">
+		Email
+	</a> •
+	<a href="https://www.linkedin.com/in/angel-david-hurtado/">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---

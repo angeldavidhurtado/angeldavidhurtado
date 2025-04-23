@@ -28,7 +28,19 @@ Más proyectos en <a href="https://angeldavidhurtado.github.io/">**mi portafolio
 
 <br>
 
-#### 🛠 Actualmente
+#### Actualmente
 Desarrollo un proyecto con React orientado a la enseñanza de matemáticas para estudiantes desde 9° a 11°, será implementado en un colegio público de la ciudad Bogotá.
+
+<br>
+
+<!--
+#### Experiencia
+
+#### Referencias
+-->
+#### Contacto
+* <a href="mailto:angeldavidhurtado.dev@gmail.com?subject=Revisamos tu GitHub - Hablemos&amp;body=Hola Ángel,%0D%0A%0D%0ASoy [tu nombre] de [nombre empresa opcional]. Hemos revisado tu GitHub y nos gustaría [asunto]">**Email**</a>
+* [**LinkedIn**](https://www.linkedin.com/in/angel-david-hurtado/)
+* [**Portafolio**](https://angeldavidhurtado.github.io/)
 
 <br>

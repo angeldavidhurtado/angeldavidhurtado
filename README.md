@@ -30,7 +30,7 @@ El objetivo de todo lo que yo hago es MAXIMIZAR mis oportunidades de conseguir e
 Quizás esta seccion convertirla en cuatro imagenes como la plantilla adjunta pero solo si pueden quedar centradas
 -->
 * [**Triángulo de Pascal**](https://angeldavidhurtado.github.io/pascals-triangle/) – JavaScript (ES6+), HTML5, CSS3
-* [**Pong**](https://angeldavidhurtado.github.io/pong/) – Canvas y JavaScript (ES6+)
+* [**Pong**](https://angeldavidhurtado.github.io/pong/) – HTML5 (Canvas) y JavaScript (ES6+)
 * [**Café**](https://angeldavidhurtado.github.io/cafe/) – JavaScript (jQuery), HTML5, CSS3
 * [**Blog**](https://angeldavidhurtado.github.io/blog/) – HTML5 y CSS3
 * [**... Ver más**](https://angeldavidhurtado.github.io)

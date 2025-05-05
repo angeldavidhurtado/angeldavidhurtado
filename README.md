@@ -23,9 +23,3 @@
 * **Blog** - HTML5 y CSS3. [Visitar sitio](https://angeldavidhurtado.github.io/blog/) o [Ver código](https://github.com/angeldavidhurtado/blog)
 
 <br>
-
-#### Contacto
-* <a href="mailto:angeldavidhurtado.dev@gmail.com?subject=Revisamos tu GitHub - Hablemos&amp;body=Hola Ángel,%0D%0A%0D%0ASoy [tu nombre] de [nombre empresa opcional]. Hemos revisado tu GitHub y nos gustaría [asunto]">Email</a>
-* [LinkedIn](https://www.linkedin.com/in/angel-david-hurtado/)
-
-<br>

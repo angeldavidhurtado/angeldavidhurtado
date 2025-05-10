@@ -3,7 +3,7 @@
 <h3 align="center">Ángel David Hurtado</h3>
 
 <p align="center">
-	Frontend Developer | JavaScript (ES6+) • HTML5 • CSS3 • Git • GitHub
+	Frontend Developer | React • JavaScript (ES6+) • HTML5 • CSS3 • Git • GitHub
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@
 <br>
 
 #### Proyectos
+* **EduGames** - React, Vite, JavaScript (jQuery), HTML5 y CSS3. [Visitar sitio]([https://angeldavidhurtado.github.io/cafe/](https://edugamesclub.github.io/)) o [Vér código](https://github.com/angeldavidhurtado/edugames)
 * **Café** - JavaScript (jQuery), HTML5 y CSS3. [Visitar sitio](https://angeldavidhurtado.github.io/cafe/) o [Vér código](https://github.com/angeldavidhurtado/cafe)
 * **Triángulo de Pascal** - JavaScript (ES6+), HTML5 y CSS3. [Visitar sitio](https://angeldavidhurtado.github.io/pascals-triangle/) o [Vér código](https://github.com/angeldavidhurtado/pascals-triangle)
 * **Blog** - HTML5 y CSS3. [Visitar sitio](https://angeldavidhurtado.github.io/blog/) o [Ver código](https://github.com/angeldavidhurtado/blog)

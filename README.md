@@ -18,7 +18,7 @@
 <br>
 
 #### Proyectos
-* **EduGames** - React, Vite, JavaScript (jQuery), HTML5 y CSS3. [Visitar sitio](https://edugamesclub.github.io/) o [Vér código](https://github.com/angeldavidhurtado/edugames)
+* **EduGames** - React, Vite, JavaScript (ES6+), HTML5 y CSS3. [Visitar sitio](https://edugamesclub.github.io/) o [Vér código](https://github.com/angeldavidhurtado/edugames)
 * **Café** - JavaScript (jQuery), HTML5 y CSS3. [Visitar sitio](https://angeldavidhurtado.github.io/cafe/) o [Vér código](https://github.com/angeldavidhurtado/cafe)
 * **Triángulo de Pascal** - JavaScript (ES6+), HTML5 y CSS3. [Visitar sitio](https://angeldavidhurtado.github.io/pascals-triangle/) o [Vér código](https://github.com/angeldavidhurtado/pascals-triangle)
 * **Blog** - HTML5 y CSS3. [Visitar sitio](https://angeldavidhurtado.github.io/blog/) o [Ver código](https://github.com/angeldavidhurtado/blog)

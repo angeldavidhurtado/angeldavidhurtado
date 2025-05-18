@@ -32,7 +32,6 @@
 * [**Café**](https://angeldavidhurtado.github.io/cafe) - JavaScript (jQuery), HTML5 y CSS3.
 * [**Triángulo de Pascal**](https://angeldavidhurtado.github.io/pascals-triangle) - JavaScript (ES6+), HTML5 y CSS3.
 * [**Blog**](https://angeldavidhurtado.github.io/blog) - HTML5 y CSS3.
-* [**Ver más…**](https://angeldavidhurtado.github.io)
 * [**Ver más...**](https://angeldavidhurtado.github.io)
 
 <br>

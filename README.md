@@ -17,11 +17,21 @@
 
 <br>
 
+<!--
 #### Proyectos
 * **EduGames** - React, Vite, JavaScript (ES6+), HTML5 y CSS3. [Visitar sitio](https://edugamesclub.github.io/) o [Vér código](https://github.com/angeldavidhurtado/edugames)
 * **Ingenium** - Node.js, Expess, MongoDB, JavaScript (ES6+), EJS, HTML5  y CSS3. [Visitar sitio](https://ingeniumedu.onrender.com/) o [Vér código](https://github.com/angeldavidhurtado/ingenium)
 * **Café** - JavaScript (jQuery), HTML5 y CSS3. [Visitar sitio](https://angeldavidhurtado.github.io/cafe/) o [Vér código](https://github.com/angeldavidhurtado/cafe)
 * **Triángulo de Pascal** - JavaScript (ES6+), HTML5 y CSS3. [Visitar sitio](https://angeldavidhurtado.github.io/pascals-triangle/) o [Vér código](https://github.com/angeldavidhurtado/pascals-triangle)
 * **Blog** - HTML5 y CSS3. [Visitar sitio](https://angeldavidhurtado.github.io/blog/) o [Ver código](https://github.com/angeldavidhurtado/blog)
+-->
+
+#### Proyectos
+* [**EduGames**](https://edugamesclub.github.io) - React, Vite, JavaScript (ES6+), HTML5 y CSS3.
+* [**Ingenium**](https://ingeniumedu.onrender.com) - Node.js, Expess, MongoDB, JavaScript (ES6+), EJS, HTML5  y CSS3.
+* [**Café**](https://angeldavidhurtado.github.io/cafe) - JavaScript (jQuery), HTML5 y CSS3.
+* [**Triángulo de Pascal**](https://angeldavidhurtado.github.io/pascals-triangle) - JavaScript (ES6+), HTML5 y CSS3.
+* [**Blog**](https://angeldavidhurtado.github.io/blog) - HTML5 y CSS3.
+* [**Ver más**](https://angeldavidhurtado.github.io)
 
 <br>

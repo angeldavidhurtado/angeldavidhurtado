@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-	<a href="mailto:angeldavidhurtado.dev@gmail.com?subject=Revisamos tu GitHub - Hablemos&amp;body=Hola Ángel,%0D%0A%0D%0ASoy [tu nombre] de [nombre empresa opcional]. Hemos revisado tu GitHub y nos gustaría [asunto]">Email</a> •
+	<a href="https://angeldavidhurtado.github.io/">Portfolio</a>
+	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=angeldavidhurtado.dev@gmail.com&su=Revisamos tu GitHub - Hablemos&body=Hola Ángel,%0D%0A%0D%0ASoy [tu nombre] de [nombre empresa]. Hemos revisado tu GitHub y nos gustaría [asunto]">Email</a> •
 	<a href="https://www.linkedin.com/in/angel-david-hurtado/">LinkedIn</a>
 </p>
 

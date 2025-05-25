@@ -19,6 +19,15 @@
 <br>
 
 #### Proyectos
+
+[EduGames](https://edugamesclub.github.io/)
+
+Continuación de “Estudia en Casa” [reconocido en el Foro Regional de Educación 2019 y Primer Puesto en el Foro
+Educativo Municipal 2020 por el Ministerio de Educación](https://contactomaestro.colombiaaprende.edu.co/experiencias-significativas/estudia-en-casa-entorno-web-ensenanza-matematicas). Esta plataforma eliminó el 100% de la dependencia a internet,
+con un diseño intuitivo reduje el tiempo de inicio de clase en un 15-20% y aumenté el engagement en un 30%, al
+permitir acceso instantáneo sin registros.
+**Tecnologías:** React • Vite • JavaScript ES6+ • HTML5 • CSS3 • Git • GitHub
+
 * [**Triángulo de Pascal**](https://angeldavidhurtado.github.io/pascals-triangle) - JavaScript (ES6+), HTML5 y CSS3.
 * [**EduGames**](https://edugamesclub.github.io) - React, Vite, JavaScript (ES6+), HTML5 y CSS3.
 * [**Ingenium**](https://ingeniumedu.onrender.com) - Node.js, Expess, MongoDB, JavaScript (ES6+), EJS, HTML5  y CSS3.
@@ -56,4 +65,4 @@
 * Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angeldavidhurtado.dev@gmail.com&su=Revisamos tu GitHub - Hablemos&body=Hola Ángel,%0D%0A%0D%0ASoy [tu nombre] de [nombre empresa]. Hemos revisado tu GitHub y nos gustaría [asunto]">angeldavidhurtado.dev@gmail.com</a>
 * LinkedIn: <a href="https://www.linkedin.com/in/angel-david-hurtado/">linkedin.com/in/angel-david-hurtado</a>
 * Portfolio: <a href="https://angeldavidhurtado.github.io/">angeldavidhurtado.github.io</a>
-* Curriculum: <a href="https://angeldavidhurtado.github.io/%C3%81ngel%20David%20Hurtado%20-%20Frontend%20Developer.pdf">Ángel David Hurtado - Frontend Developer</a>
+* Curriculum: <a href="https://angeldavidhurtado.github.io/%C3%81ngel%20David%20Hurtado%20-%20Frontend%20Developer.pdf">Ángel David Hurtado - Frontend Developer.pdf</a>

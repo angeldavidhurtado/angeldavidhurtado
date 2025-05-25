@@ -20,20 +20,18 @@
 
 #### Proyectos
 
-[EduGames](https://edugamesclub.github.io/)
+* [**EduGames**](https://edugamesclub.github.io/)
 
-Continuación de “Estudia en Casa” [reconocido en el Foro Regional de Educación 2019 y Primer Puesto en el Foro
-Educativo Municipal 2020 por el Ministerio de Educación](https://contactomaestro.colombiaaprende.edu.co/experiencias-significativas/estudia-en-casa-entorno-web-ensenanza-matematicas). Esta plataforma eliminó el 100% de la dependencia a internet,
-con un diseño intuitivo reduje el tiempo de inicio de clase en un 15-20% y aumenté el engagement en un 30%, al
-permitir acceso instantáneo sin registros.
-**Tecnologías:** React • Vite • JavaScript ES6+ • HTML5 • CSS3 • Git • GitHub
+  Continuación de “Estudia en Casa” [reconocido en el Foro Regional de Educación 2019 y Primer Puesto en el Foro Educativo Municipal 2020 por el Ministerio de Educación](https://contactomaestro.colombiaaprende.edu.co/experiencias-significativas/estudia-en-casa-entorno-web-ensenanza-matematicas). Esta plataforma eliminó el 100% de la dependencia a internet, con un diseño intuitivo reduje el tiempo de inicio de clase en un 15-20% y aumenté el engagement en un 30%, al permitir acceso instantáneo sin registros.
 
-* [**Triángulo de Pascal**](https://angeldavidhurtado.github.io/pascals-triangle) - JavaScript (ES6+), HTML5 y CSS3.
-* [**EduGames**](https://edugamesclub.github.io) - React, Vite, JavaScript (ES6+), HTML5 y CSS3.
-* [**Ingenium**](https://ingeniumedu.onrender.com) - Node.js, Expess, MongoDB, JavaScript (ES6+), EJS, HTML5  y CSS3.
-* [**Café**](https://angeldavidhurtado.github.io/cafe) - JavaScript (jQuery), HTML5 y CSS3.
-* [**Pong**](https://angeldavidhurtado.github.io/pong/) - JavaScript (ES6+), HTML5 (Canvas) y CSS3.
-* [**Blog**](https://angeldavidhurtado.github.io/blog) - HTML5 y CSS3.
+  **Tecnologías:** React • Vite • JavaScript ES6+ • HTML5 • CSS3 • Git • GitHub
+
+* [**Ingenium**](https://ingeniumedu.onrender.com/)
+
+  Red social para matemáticos e ingenieros que busca transformar la difusión de aportes académicos complejos, inspirada en la dificultad de acceder a tesis meritorias. La plataforma permite a los usuarios compartir el "aporte central" de sus investigaciones, reduciendo el tiempo de comprensión de días a minutos. Superé desafíos técnicos clave como la renderización precisa de notación matemática (una característica innovadora en una red social).
+
+  **Tecnologías:** Node.js • Express • MongoDB • EJS • JavaScript ES6 • HTML5 • CSS3 • Git • Render • MongoDB Atlas
+
 * [**Ver más...**](https://angeldavidhurtado.github.io)
 
 <br>

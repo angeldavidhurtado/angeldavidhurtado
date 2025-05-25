@@ -59,7 +59,27 @@
 * GitHub
 -->
 
-#### Contacto
+<h4 align="center">Experiencia</h4>
+
+* **Propietario y Administrador de Café Internet** _(2024 — 2025)_
+
+  * Lideré la operación y gestión de un café internet, a través de la implementación tecnológica y la optimización de procesos.
+  * Diseñé una extensión para Google Chrome con JavaScript y Node.js para automatizar la descarga de archivos de clientes desde WhatsApp. Esta solución redujo el tiempo de gestión en un 90% y eliminó el 100% de los errores operativos de descarga, mejorando la eficiencia operativa y la experiencia del cliente.
+  * Fui responsable del mantenimiento y la resolución de problemas de una red de 7 PCs y 3 impresoras, asegurando la disponibilidad de los servicios clave del negocio y la continuidad operativa.
+
+  **Skills:** Google Chrome Extensions • Node.js • JavaScript (ES6+) • HTML5 • CSS3
+
+* **Superprof — Gestión de Proyectos y Tutor de Programación** _(2022 — 2023)_
+    * Diseñé e implementé soluciones de software personalizadas, enfocándome en desarrollo web y automatización.
+    * Desarrollé un sistema financiero P2P con Python y Selenium que redujo el tiempo de gestión de transacciones en un 75% y minimizando errores operativos. Esta solución automatizó la verificación de clientes, pagos y registros, permitiendo operaciones 24/7, y sentando las bases para un posible servicio web.
+    * Colaboré en tesis de pregrado, construyendo una aplicación para optimizar horarios en un hospital. Desarrollé el frontend y backend para que las enfermeras interactuaran con modelos de optimización. Aunque mi enfoque es Node.js, me adapté a Flask para integrar los modelos y cumplir los plazos del proyecto.
+
+  **Skills:** Google APIs • JavaScript (ES6+) • HTML5 • CSS3 • Git • GitHub • Python • Selenium • Flask
+
+<br>
+
+<h4 align="center">Contacto</h4>
+
 * Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angeldavidhurtado.dev@gmail.com&su=Revisamos tu GitHub - Hablemos&body=Hola Ángel,%0D%0A%0D%0ASoy [tu nombre] de [nombre empresa]. Hemos revisado tu GitHub y nos gustaría [asunto]">angeldavidhurtado.dev@gmail.com</a>
 * LinkedIn: <a href="https://www.linkedin.com/in/angel-david-hurtado/">linkedin.com/in/angel-david-hurtado</a>
 * Portfolio: <a href="https://angeldavidhurtado.github.io/">angeldavidhurtado.github.io</a>

@@ -18,7 +18,7 @@
 
 <br>
 
-#### Proyectos
+<h4 align="center">Proyectos</h4>
 
 * **EduGames** [[↗]](https://edugamesclub.github.io/)
 
@@ -75,6 +75,14 @@
     * Colaboré en tesis de pregrado, construyendo una aplicación para optimizar horarios en un hospital. Desarrollé el frontend y backend para que las enfermeras interactuaran con modelos de optimización. Aunque mi enfoque es Node.js, me adapté a Flask para integrar los modelos y cumplir los plazos del proyecto.
 
   **Skills:** Google APIs • JavaScript (ES6+) • HTML5 • CSS3 • Git • GitHub • Python • Selenium • Flask
+
+<br>
+
+<h4 align="center">Referencias</h4>
+
+**Miguel Hurtado | Magíster en Matemática Aplicada**
+
+"Ángel me ayudó desarrollando EduGames, eliminando la dependencia de internet, mejorando el inicio de clases y reduciendo tiempos en un 50%. Su proactividad fue clave para el éxito de este y otros proyectos"
 
 <br>
 

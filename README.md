@@ -78,6 +78,14 @@
 
 <br>
 
+<h4 align="center">Educación</h4>
+
+**Técnico en programación de software – SENA** _(2024 – 2026)_
+
+Software Development | JavaScript (ES6+) • Node.js • Express • PostgreSQL • MySQL • HTML5 • CSS3
+
+<br>
+
 <h4 align="center">Sobre mí</h4>
 
 Escribí mi primera línea de código a los 14 años, Programé en Python y C++, pasé por ensamblador para microcontroladores y finalmente decidí enfocarme en el desarrollo web con JavaScript, React y Node.js. Ya que, su capacidad de brindar soluciones a cualquier persona y su accesibilidad en diversos dispositivos, estando simplemente a un link de distancia, me cautivó.
@@ -92,7 +100,7 @@ Actualmente, complemento mi formación académica como "Técnico en Programació
 
 **Miguel Hurtado | Magíster en Matemática Aplicada**
 
-"Ángel me ayudó desarrollando EduGames, eliminando la dependencia de internet, mejorando el inicio de clases y reduciendo tiempos en un 50%. Su proactividad fue clave para el éxito de este y otros proyectos"
+_"Ángel me ayudó desarrollando EduGames, eliminando la dependencia de internet, mejorando el inicio de clases y reduciendo tiempos en un 50%. Su proactividad fue clave para el éxito de este y otros proyectos"_
 
 <br>
 
@@ -102,3 +110,5 @@ Actualmente, complemento mi formación académica como "Técnico en Programació
 * LinkedIn: <a href="https://www.linkedin.com/in/angel-david-hurtado/">linkedin.com/in/angel-david-hurtado</a>
 * Portfolio: <a href="https://angeldavidhurtado.github.io/">angeldavidhurtado.github.io</a>
 * Curriculum: <a href="https://angeldavidhurtado.github.io/%C3%81ngel%20David%20Hurtado%20-%20Frontend%20Developer.pdf">Ángel David Hurtado - Frontend Developer.pdf</a>
+
+<br>

@@ -29,6 +29,31 @@
 
 <br>
 
-#### Contacto
+<!--
+#### Acerca de
+* Aprendiendo React. Me gusta el código limpio, desarrollar webs pixel perfect y profundizar en las tecnologías que utilizo.
+* Actualmente estudio el "Tecnico en programación de software" en el SENA, y me apasiona investigar, analizar y desarrollar aplicaciones
+* Tengo conocimientos en Java, HTML5, CSS3 y SQL.
+* Me encuentro desarrollando aplicaciones web.
+* Sigo formándome para ampliar mis habilidades y conocimientos.
+* Además, disfruto realizar cursos y explorar recursos que me ayuden a mejorar mi criterio profesional y crecer en este camino.
+* Frontend Developer enfocado en React.
 
-* <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angeldavidhurtado.dev@gmail.com&su=Revisamos tu GitHub - Hablemos&body=Hola Ángel,%0D%0A%0D%0ASoy [tu nombre] de [nombre empresa]. Hemos revisado tu GitHub y nos gustaría [asunto]">Email</a> •
+<br>
+
+#### Mis proyectos los he realizado con estas tecnologías
+* JavaScript (ES6+) POO
+* MySQL
+* PHP
+* POO
+* HTML5
+* CSS3
+* Git
+* GitHub
+-->
+
+#### Contacto
+* Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=angeldavidhurtado.dev@gmail.com&su=Revisamos tu GitHub - Hablemos&body=Hola Ángel,%0D%0A%0D%0ASoy [tu nombre] de [nombre empresa]. Hemos revisado tu GitHub y nos gustaría [asunto]">angeldavidhurtado.dev@gmail.com</a>
+* LinkedIn: <a href="https://www.linkedin.com/in/angel-david-hurtado/">linkedin.com/in/angel-david-hurtado</a>
+* Portfolio: <a href="https://angeldavidhurtado.github.io/">angeldavidhurtado.github.io</a>
+* Curriculum: <a href="https://angeldavidhurtado.github.io/%C3%81ngel%20David%20Hurtado%20-%20Frontend%20Developer.pdf">Ángel David Hurtado - Frontend Developer</a>

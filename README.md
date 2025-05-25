@@ -70,7 +70,9 @@
   Skills: Google Chrome Extensions • Node.js • JavaScript (ES6+) • HTML5 • CSS3
 
 * **Superprof — Gestión de Proyectos y Tutor de Programación** _(2022 — 2023)_
-    * Diseñé e implementé soluciones de software personalizadas, enfocándome en desarrollo web y automatización.
+
+    Software personalizado, desarrollo web y automatización.
+
     * Desarrollé un sistema financiero P2P con Python y Selenium que redujo el tiempo de gestión de transacciones en un 75% y minimizando errores operativos. Esta solución automatizó la verificación de clientes, pagos y registros, permitiendo operaciones 24/7, y sentando las bases para un posible servicio web.
     * Colaboré en tesis de pregrado, construyendo una aplicación para optimizar horarios en un hospital. Desarrollé el frontend y backend para que las enfermeras interactuaran con modelos de optimización. Aunque mi enfoque es Node.js, me adapté a Flask para integrar los modelos y cumplir los plazos del proyecto.
 

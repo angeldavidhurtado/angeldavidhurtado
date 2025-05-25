@@ -20,13 +20,13 @@
 
 #### Proyectos
 
-* [**EduGames**](https://edugamesclub.github.io/)
+* **EduGames** [[↗]](https://edugamesclub.github.io/)
 
   Continuación de “Estudia en Casa” [reconocido en el Foro Regional de Educación 2019 y Primer Puesto en el Foro Educativo Municipal 2020 por el Ministerio de Educación](https://contactomaestro.colombiaaprende.edu.co/experiencias-significativas/estudia-en-casa-entorno-web-ensenanza-matematicas). Esta plataforma eliminó el 100% de la dependencia a internet, con un diseño intuitivo reduje el tiempo de inicio de clase en un 15-20% y aumenté el engagement en un 30%, al permitir acceso instantáneo sin registros.
 
   **Tecnologías:** React • Vite • JavaScript ES6+ • HTML5 • CSS3 • Git • GitHub
 
-* [**Ingenium**](https://ingeniumedu.onrender.com/)
+* **Ingenium** [[↗]](https://ingeniumedu.onrender.com/)
 
   Red social para matemáticos e ingenieros que busca transformar la difusión de aportes académicos complejos, inspirada en la dificultad de acceder a tesis meritorias. La plataforma permite a los usuarios compartir el "aporte central" de sus investigaciones, reduciendo el tiempo de comprensión de días a minutos. Superé desafíos técnicos clave como la renderización precisa de notación matemática (una característica innovadora en una red social).
 

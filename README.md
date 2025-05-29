@@ -3,7 +3,7 @@
 <h3 align="center">Ángel David Hurtado</h3>
 
 <p align="center">
-	Frontend Developer | React • JavaScript (ES6+) • HTML5 • CSS3 • Git • GitHub • SCRUM
+	Frontend Developer | React • Node.js • Express • JavaScript (ES6+) • PostgreSQL • MongoDB • MySQL • HTML5 • CSS3 • Git
 </p>
 
 <p align="center">

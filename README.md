@@ -27,7 +27,7 @@
 
 * **Ingenium** [[↗]](https://ingeniumedu.onrender.com/)
 
-  Red social para matemáticos e ingenieros que busca transformar la difusión de aportes académicos complejos, inspirada en la dificultad de acceder a tesis meritorias. La plataforma permite a los usuarios compartir el "aporte central" de sus investigaciones, reduciendo el tiempo de comprensión de días a minutos. Superé desafíos técnicos clave como la renderización precisa de notación matemática (una característica innovadora en una red social).
+  Red social para matemáticos e ingenieros que busca transformar la difusión de aportes académicos complejos. Implementé funcionalidades clave como la renderización precisa de notación matemática, permitiendo compartir el "aporte central" de una tesis reduciendo el tiempo de comprensión de días a minutos.
 
   Tecnologías: Node.js • Express • MongoDB • EJS • JavaScript ES6 • HTML5 • CSS3 • Git • Render • MongoDB Atlas
 

@@ -20,11 +20,15 @@
 
 <h4 align="center">Proyectos</h4>
 
-* [**EduGames**](https://edugamesclub.github.io/) Previamente llamado “Estudia en Casa”. Reconocido por Colombia Aprende en 2021. Eliminó el 100% de la dependencia a internet, redujo el tiempo de inicio de clases un 15-20% y aumentó el engagement un 30%, gracias a su UX
+* **EduGames** [[↗]](https://edugamesclub.github.io/)
+
+  Previamente llamado “Estudia en Casa”. Reconocido por Colombia Aprende en 2021. Eliminó el 100% de la dependencia a internet, redujo el tiempo de inicio de clases un 15-20% y aumentó el engagement un 30%, gracias a su UX
 
   Tecnologías: React • Vite • JavaScript (ES6+) • HTML5 • CSS3 • Git • GitHub
 
-* [**Ingenium**](https://ingeniumedu.onrender.com/) Red social para matemáticos e ingenieros que busca transformar la difusión de aportes académicos complejos. Implementé funcionalidades clave como la renderización precisa de notación matemática, permitiendo compartir el "aporte central" de una tesis reduciendo el tiempo de comprensión de días a minutos.
+* **Ingenium** [[↗]](https://ingeniumedu.onrender.com/)
+
+  Red social para matemáticos e ingenieros que busca transformar la difusión de aportes académicos complejos. Implementé funcionalidades clave como la renderización precisa de notación matemática, permitiendo compartir el "aporte central" de una tesis reduciendo el tiempo de comprensión de días a minutos.
 
   Tecnologías: Node.js • Express • MongoDB • EJS • JavaScript ES6 • HTML5 • CSS3 • Git • Render • MongoDB Atlas
 

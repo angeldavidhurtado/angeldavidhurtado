@@ -3,7 +3,7 @@
 <h3 align="center">Ángel David Hurtado</h3>
 
 <p align="center">
-	Frontend Developer | React • Node • JS (ES6+) • PostgreSQL • MongoDB • MySQL • HTML5 • CSS3
+	Frontend Developer | React • Node • JS • PostgreSQL • MongoDB • MySQL • HTML5 • CSS3
 </p>
 
 <p align="center">
@@ -18,13 +18,13 @@
 
 <br>
 
-<h4 align="center">Proyectos</h4>
+#### Proyectos
 
-* [**EduGames**](https://edugamesclub.github.io/) - React • Vite • JavaScript (ES6+) • HTML5 • CSS3 • Git • GitHub
+* [**EduGames**](https://edugamesclub.github.io/) - React • Vite • JavaScript (ES6+) • HTML5 • CSS3
 
-* [**Ingenium**](https://ingeniumedu.onrender.com/) | Node.js • Express • MongoDB • EJS • JavaScript ES6 • HTML5 • CSS3 • Git • Render • MongoDB Atlas
+* [**Ingenium**](https://ingeniumedu.onrender.com/) - Node • Express • MongoDB • EJS • JS • HTML5 • CSS3
 
-* [**Triángulo de Pascal**](https://angeldavidhurtado.github.io/pascals-triangle/) - JavaScript (ES6+) • HTML5 • CSS3
+* [**Triángulo de Pascal**](https://angeldavidhurtado.github.io/pascals-triangle/) - JS • HTML5 • CSS3
 
 * [**Ver más...**](https://angeldavidhurtado.github.io)
 

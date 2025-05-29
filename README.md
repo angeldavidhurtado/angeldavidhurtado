@@ -21,10 +21,9 @@
 <h4 align="center">Proyectos</h4>
 
 * **EduGames** [[↗]](https://edugamesclub.github.io/)
+  Previamente llamado “Estudia en Casa”. Reconocido por Colombia Aprende en 2021. Eliminó el 100% de la dependencia a internet, redujo el tiempo de inicio de clases un 15-20% y aumentó el engagement un 30%, gracias a su UX
 
-  Continuación de “Estudia en Casa” [reconocido en el Foro Regional de Educación 2019 y Primer Puesto en el Foro Educativo Municipal 2020 por el Ministerio de Educación](https://contactomaestro.colombiaaprende.edu.co/experiencias-significativas/estudia-en-casa-entorno-web-ensenanza-matematicas). Esta plataforma eliminó el 100% de la dependencia a internet, con un diseño intuitivo reduje el tiempo de inicio de clase en un 15-20% y aumenté el engagement en un 30%, al permitir acceso instantáneo sin registros.
-
-  Tecnologías: React • Vite • JavaScript ES6+ • HTML5 • CSS3 • Git • GitHub
+  Tecnologías: React • Vite • JavaScript (ES6+) • HTML5 • CSS3 • Git • GitHub
 
 * **Ingenium** [[↗]](https://ingeniumedu.onrender.com/)
 

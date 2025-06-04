@@ -29,3 +29,13 @@
 * [**Ver más...**](https://angeldavidhurtado.github.io)
 
 <br>
+
+#### Acerca de
+
+He liderado proyectos donde resolví problemas reales, como la automatización de descargas con JavaScript y Node.js (–90% en tiempos, 0% errores), y un sistema financiero P2P con Python y Selenium (–75% en gestión manual).
+
+Inicié en el desarrollo web desde los 14 años. Actualmente me enfoco en frontend con React, JavaScript (ES6+), HTML5, CSS3, Git y tecnologías web modernas. Creo interfaces eficientes, accesibles y escalables, con enfoque en rendimiento y experiencia de usuario.
+
+Me motiva trabajar en entornos dinámicos donde la tecnología impacta directamente en los procesos del negocio. Disfruto aportar a equipos colaborativos, enfrentar desafíos reales y entregar soluciones que generen valor para usuarios y organizaciones. Soy adaptable, proactivo, comunicativo y estoy comprometido con la mejora continua.
+
+<br>

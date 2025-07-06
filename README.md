@@ -23,11 +23,13 @@
 
 #### Proyectos
 
+* [**Triángulo de Pascal**](https://angeldavidhurtado.github.io/pascals-triangle/) - JavaScript (ES6+) • HTML5 • CSS3
+
+* [**Pong**](https://angeldavidhurtado.github.io/pong/) - JavaScript (ES6+) • HTML5 Canvas
+
 * [**EduGames**](https://edugamesclub.github.io/) - React • Vite • JavaScript (ES6+) • HTML5 • CSS3
 
 * [**Ingenium**](https://ingeniumedu.onrender.com/) - Node.js • Express • MongoDB • EJS • JavaScript (ES6+) • HTML5 • CSS3
-
-* [**Triángulo de Pascal**](https://angeldavidhurtado.github.io/pascals-triangle/) - JavaScript (ES6+) • HTML5 • CSS3
 
 * [**Ver más...**](https://angeldavidhurtado.github.io)
 

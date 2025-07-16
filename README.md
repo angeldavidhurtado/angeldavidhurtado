@@ -27,7 +27,9 @@
 
 * [**Pong**](https://angeldavidhurtado.github.io/pong/) - JavaScript (ES6+) • HTML5 Canvas
 
+<!--
 * [**EduGames**](https://edugamesclub.github.io/) - React • Vite • JavaScript (ES6+) • HTML5 • CSS3
+-->
 
 * [**Ingenium**](https://ingeniumedu.onrender.com/) - Node.js • Express • MongoDB • EJS • JavaScript (ES6+) • HTML5 • CSS3
 

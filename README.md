@@ -10,7 +10,9 @@
 	<a href="https://angeldavidhurtado.github.io/">Portfolio</a> •
 	<a href="https://angeldavidhurtado.github.io/%C3%81ngel%20David%20Hurtado%20-%20Frontend%20Developer.pdf">Curriculum</a> •
 	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=angeldavidhurtado.dev@gmail.com&su=Revisamos tu GitHub - Hablemos&body=Hola Ángel,%0D%0A%0D%0ASoy [tu nombre] de [nombre empresa]. Hemos revisado tu GitHub y nos gustaría [asunto]">Email</a>
+	<!--
 	<a href="https://www.linkedin.com/in/angel-david-hurtado/">LinkedIn</a>
+	-->
 </p>
 
 <br>
@@ -25,9 +27,7 @@
 
 * [**Pong**](https://angeldavidhurtado.github.io/pong/) - JavaScript (ES6+) • HTML5 Canvas
 
-<!--
 * [**EduGames**](https://edugamesclub.github.io/) - React • Vite • JavaScript (ES6+) • HTML5 • CSS3
--->
 
 * [**Ingenium**](https://ingeniumedu.onrender.com/) - Node.js • Express • MongoDB • EJS • JavaScript (ES6+) • HTML5 • CSS3
 

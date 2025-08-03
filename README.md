@@ -1,6 +1,6 @@
 <br>
 
-<h3 align="center">Ángel David Hurtado</h3>
+<h3 align="center">Ángel David Hurtado</h3>.
 
 <p align="center">
 	Frontend Developer | React • Node.js • JavaScript (ES6+) • PostgreSQL • MongoDB • MySQL • HTML5 • CSS3
